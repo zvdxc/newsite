@@ -9,7 +9,7 @@ Anleitung: Etcher öffnen, ISO auswählen, USB auswählen, FLASH
 
 ACHTUNG: ALLE DATEN AUF DEM USB WERDEN GELÖSCHT
 
-Und jetzt warten...
+Und jetzt warten, bis der USB bereit ist...
 
 Wenn fertig: Diese Seite auf dem Smartphone aufrufen.
 
