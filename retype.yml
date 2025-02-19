@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: zvdxc.is-a.dev # Add your website address here
+branding:
+  title: JannPAGE
+  #label: Docs
+links:
+- text: Old page
+  link: https://mysite-e7j.pages.dev
+footer:
+

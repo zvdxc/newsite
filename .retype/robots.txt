@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zvdxc.is-a.dev/sitemap.xml.gz
