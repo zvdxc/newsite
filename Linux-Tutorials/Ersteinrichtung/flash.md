@@ -1,3 +1,9 @@
+---
+author: Jannis
+---
+
+
+
 # 2. Auf USB flashen
 Also, Distro steht fest. Jetzt geht es an die Installation.
 Man benötigt: Einen PC/Laptop mit Adminrechten, ein Smartphone und einen USB, der formatiert werden kann
