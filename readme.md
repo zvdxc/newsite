@@ -1,7 +1,7 @@
----
-author: Jannis
----
+# IMPORTANT
 
+For legal and personal reasons this site has stopped serving content
 
+# WICHTIG
 
-# Willkommen auf der JannPAGE!
+Aufgrund von legalen und persönlichen Gründen hat diese Webseite aufgehört, Inhalte bereitzustellen.
